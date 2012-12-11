@@ -13,3 +13,9 @@ to run just make sure plays.rb and plays.json exists in same folder then
 
 ruby plays.rb "Richard III" for instance
 
+or any other play name from the json file 
+
+Outputs to console only - coloured lines negative sentiment = red , positive sentiment = green,  neutral = yellow 
+
+
+See video hacks.m4v or 
